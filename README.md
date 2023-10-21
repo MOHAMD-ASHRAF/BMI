@@ -4,9 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A BMI app is a mobile application that allows users to calculate their body mass index (BMI). BMI is a measure of body fat based on height and weight. It is calculated by dividing weight in kilograms by height in meters squared
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
